@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2026-07-04 16:00 IST",
+  "stocks": [
+    { "symbol": "AAPL", "price": 242.15, "peRatio": 32.4, "marketCap": 3620000000000, "high52wProximityPct": 94.1, "rsi14": 58.2, "avgDailyVolume": 54200000, "buyLevel": 233.4, "bidLevel": 230.04, "sellLevel": 254.7, "action": "HOLD", "source": "Yahoo Finance" },
+    { "symbol": "MSFT", "price": 512.6, "peRatio": 36.8, "marketCap": 3810000000000, "high52wProximityPct": 99.2, "rsi14": 72.5, "avgDailyVolume": 21800000, "buyLevel": 495.1, "bidLevel": 486.97, "sellLevel": 511.5, "action": "SELL", "source": "Yahoo Finance" },
+    { "symbol": "NVDA", "price": 168.4, "peRatio": 51.2, "marketCap": 4110000000000, "high52wProximityPct": 97.6, "rsi14": 66.1, "avgDailyVolume": 198500000, "buyLevel": 161.2, "bidLevel": 159.98, "sellLevel": 170.8, "action": "HOLD", "source": "Yahoo Finance" },
+    { "symbol": "GOOGL", "price": 189.3, "peRatio": 21.6, "marketCap": 2320000000000, "high52wProximityPct": 88.4, "rsi14": 33.8, "avgDailyVolume": 28900000, "buyLevel": 186.9, "bidLevel": 179.84, "sellLevel": 212.0, "action": "BUY", "source": "Yahoo Finance" },
+    { "symbol": "AMZN", "price": 226.7, "peRatio": 38.9, "marketCap": 2400000000000, "high52wProximityPct": 92.8, "rsi14": 54.0, "avgDailyVolume": 39100000, "buyLevel": 221.3, "bidLevel": 215.37, "sellLevel": 241.8, "action": "HOLD", "source": "Yahoo Finance" },
+    { "symbol": "META", "price": 748.2, "peRatio": 28.1, "marketCap": 1890000000000, "high52wProximityPct": 96.3, "rsi14": 61.4, "avgDailyVolume": 12400000, "buyLevel": 731.5, "bidLevel": 710.79, "sellLevel": 769.1, "action": "HOLD", "source": "Yahoo Finance" },
+    { "symbol": "TSLA", "price": 297.4, "peRatio": 88.3, "marketCap": 958000000000, "high52wProximityPct": 61.6, "rsi14": 29.7, "avgDailyVolume": 92700000, "buyLevel": 305.2, "bidLevel": 282.53, "sellLevel": 477.9, "action": "BUY", "source": "Yahoo Finance" },
+    { "symbol": "AVGO", "price": 288.9, "peRatio": 41.5, "marketCap": 1360000000000, "high52wProximityPct": 98.8, "rsi14": 70.9, "avgDailyVolume": 18600000, "buyLevel": 279.0, "bidLevel": 274.46, "sellLevel": 289.4, "action": "SELL", "source": "Yahoo Finance" }
+  ]
+}
