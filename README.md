@@ -42,8 +42,26 @@ gh secret set REPORT_TO_EMAIL
 
 ## Cloudflare Pages setup
 
-Create a Pages project connected to this repo with build command `npm run build`
-and output directory `dist`. Every data-refresh commit redeploys automatically.
+Deploys go through `wrangler pages deploy dist --project-name=brainvest` — the
+GitHub Actions `deploy` job runs it after every data refresh. It needs two more
+repo secrets: `CLOUDFLARE_API_TOKEN` (create at dash.cloudflare.com → My Profile
+→ API Tokens, "Cloudflare Pages — Edit" template) and `CLOUDFLARE_ACCOUNT_ID`.
+
+## Password gate
+
+The whole site (HTML, JS, and the JSON data) sits behind a server-side password
+check in [functions/_middleware.js](functions/_middleware.js). The password is
+the `DASHBOARD_PASSWORD` Pages secret — never in the repo. Change it with:
+
+```sh
+npx wrangler pages secret put DASHBOARD_PASSWORD --project-name brainvest
+```
+
+A correct login sets a signed, HttpOnly, 30-day cookie. If the secret is unset,
+the gate is disabled (useful for local `wrangler pages dev`).
+
+Note: the **repo** is public, so the committed sample/refresh JSON in
+`public/data/` is visible on GitHub even though the site is gated.
 
 ## Data sources & caveats
 
