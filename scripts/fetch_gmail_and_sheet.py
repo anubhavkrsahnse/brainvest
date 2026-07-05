@@ -85,6 +85,9 @@ def fetch_sheet_targets(creds):
 
 
 def main():
+    if not os.environ.get("GOOGLE_OAUTH_TOKEN_JSON") or not os.environ.get("ETF_SHEET_ID"):
+        print("GOOGLE_OAUTH_TOKEN_JSON / ETF_SHEET_ID secrets not configured — skipping ETF sync")
+        return
     creds = get_creds()
     holdings = fetch_zerodha_holdings(creds)
     targets = fetch_sheet_targets(creds)

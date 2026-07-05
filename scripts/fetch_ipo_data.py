@@ -27,10 +27,16 @@ def fetch_nse_issues():
     s.headers.update(UA)
     s.get("https://www.nseindia.com", timeout=15)  # prime cookies
     issues = []
-    for endpoint in ("ipo-current-issues", "all-upcoming-issues?category=ipo"):
-        r = s.get(f"https://www.nseindia.com/api/{endpoint}", timeout=15)
-        r.raise_for_status()
-        for row in r.json():
+    # NSE has shuffled these endpoint names over time; try known variants.
+    for endpoint in ("ipo-current-issue", "ipo-current-issues", "all-upcoming-issues?category=ipo"):
+        try:
+            r = s.get(f"https://www.nseindia.com/api/{endpoint}", timeout=15)
+            r.raise_for_status()
+            rows = r.json()
+        except Exception as e:
+            print(f"NSE endpoint {endpoint} failed: {e}")
+            continue
+        for row in rows:
             issues.append({
                 "company": row.get("companyName"),
                 "symbol": row.get("symbol"),
@@ -91,6 +97,9 @@ def auto_pros_cons(ipo):
 
 def main():
     issues = fetch_nse_issues()
+    if not issues:
+        print("No issues fetched (NSE unreachable?) — keeping previous ipo.json")
+        return
     try:
         gmp = fetch_gmp_table()
     except Exception as e:  # GMP is best-effort; the issue list still ships
