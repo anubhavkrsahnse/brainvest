@@ -1,6 +1,7 @@
 import DisclaimerHeader from './components/DisclaimerHeader.jsx'
 import TargetScrolly from './components/TargetScrolly.jsx'
 import MasterDashboard from './components/MasterDashboard.jsx'
+import ReturnsTracker from './components/ReturnsTracker.jsx'
 import USStocksModule from './components/USStocksModule.jsx'
 import IPOModule from './components/IPOModule.jsx'
 import ETFModule from './components/ETFModule.jsx'
@@ -11,6 +12,7 @@ export default function App() {
       <DisclaimerHeader />
       <TargetScrolly />
       <MasterDashboard />
+      <ReturnsTracker />
       <USStocksModule />
       <IPOModule />
       <ETFModule />

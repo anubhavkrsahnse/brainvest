@@ -292,6 +292,56 @@ td.down, .ipo-stats .down { color: var(--red); font-weight: 600; }
 .card ul.pros li { color: var(--green); }
 .card ul.cons li { color: var(--red); }
 
+/* ---------- Kite-style returns tracker ---------- */
+#returns { --k-green: #4caf50; --k-red: #e53935; --k-blue: #4184f3; }
+
+.kite-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.kite-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 18px 22px;
+}
+.kite-stat + .kite-stat { border-left: 1px solid var(--border); }
+.k-label { color: var(--muted); font-size: 12px; }
+.k-value { font-size: 24px; font-weight: 400; font-variant-numeric: tabular-nums; }
+.k-chip { font-size: 12px; padding: 2px 8px; border-radius: 4px; background: var(--panel-2); vertical-align: middle; }
+
+.pnl-up { color: var(--k-green); }
+.pnl-down { color: var(--k-red); }
+
+.kite-filters { display: flex; gap: 4px; margin-bottom: 14px; flex-wrap: wrap; }
+.k-tab {
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 13px;
+  padding: 8px 14px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+.k-tab.active { color: var(--k-blue); border-bottom-color: var(--k-blue); }
+.k-tab:hover { color: var(--text); }
+
+.kite-table table { font-size: 13px; }
+.kite-table th.num, .kite-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.kite-table tbody tr:hover { background: var(--panel-2); }
+.k-module { font-size: 10px; color: var(--muted); border: 1px solid var(--border); border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; }
+.k-reason { color: var(--muted); font-size: 11px; margin-top: 3px; max-width: 320px; white-space: normal; }
+.k-date { color: var(--muted); font-size: 11px; margin-top: 3px; }
+.k-action { font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 3px; }
+.k-action.buy { color: var(--k-blue); background: rgba(65, 132, 243, 0.12); }
+.k-action.sell { color: #ff9800; background: rgba(255, 152, 0, 0.12); }
+.k-action.avoid { color: var(--muted); background: var(--panel-2); }
+
 footer {
   border-top: 1px solid var(--border);
   padding: 32px 24px;
