@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import { fetchData } from '../dataSource.js'
 
 const inr = n => '₹' + Math.abs(n).toLocaleString('en-IN', { maximumFractionDigits: 0 })
 const signed = n => (n < 0 ? '-' : '+') + inr(n).slice(1)
@@ -30,7 +31,7 @@ export default function ReturnsTracker() {
   const [filter, setFilter] = useState('All')
 
   useEffect(() => {
-    fetch('/data/recommendations.json').then(r => r.json()).then(setData).catch(() => setData({ recommendations: [] }))
+    fetchData('recommendations.json').then(setData).catch(() => setData({ recommendations: [] }))
   }, [])
 
   const rows = useMemo(() => {
