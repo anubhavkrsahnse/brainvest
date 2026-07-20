@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20 17:36 IST",
+  "lastUpdated": "2026-07-20 21:45 IST",
   "ipos": [
     {
       "company": "Caliber Mining and Logistics Limited",
@@ -24,55 +24,6 @@
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Cube Highways Trust",
-      "symbol": "CUBEINVIT",
-      "priceBand": "Rs.151 to Rs.152",
-      "issueSizeCr": 3774.8,
-      "qibSubscription": null,
-      "openDate": "22-Jul-2026",
-      "closeDate": "24-Jul-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,359.03 crores in 2026 against \u20b93,453.15 crores in 2025. The company reported loss of \u20b9216.72 crores in 2026 against loss of \u20b935.72 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "Metalic Technoforge Limited",
-      "symbol": "METALIC",
-      "priceBand": "Rs.72 to Rs.77",
-      "issueSizeCr": 50.0,
-      "qibSubscription": null,
-      "openDate": "21-Jul-2026",
-      "closeDate": "23-Jul-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b997.98 crores in 2026 against \u20b975.64 crores in 2025. The company reported profit of \u20b912.36 crores in 2026 against profit of \u20b99.03 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
-        "SME board \u2014 lower liquidity, higher volatility"
       ]
     }
   ]
