@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11 10:17 IST",
+  "lastUpdated": "2026-08-11 16:53 IST",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -18,11 +18,11 @@
     {
       "symbol": "MSFT",
       "price": 506.06,
-      "peRatio": 28.192757,
+      "peRatio": 27.851402,
       "marketCap": 3757771587584,
       "high52wProximityPct": 92.0,
       "rsi14": 79.1,
-      "avgDailyVolume": 41283035,
+      "avgDailyVolume": 41193747,
       "buyLevel": 421.0,
       "bidLevel": 480.76,
       "sellLevel": 544.73,
@@ -32,7 +32,7 @@
     {
       "symbol": "NVDA",
       "price": 217.55,
-      "peRatio": 34.259842,
+      "peRatio": 33.315468,
       "marketCap": 5269278425088,
       "high52wProximityPct": 92.1,
       "rsi14": 58.1,
@@ -46,7 +46,7 @@
     {
       "symbol": "GOOGL",
       "price": 357.52,
-      "peRatio": 17.760557,
+      "peRatio": 17.956804,
       "marketCap": 4372446314496,
       "high52wProximityPct": 87.5,
       "rsi14": 52.2,
@@ -60,7 +60,7 @@
     {
       "symbol": "AMZN",
       "price": 278.09,
-      "peRatio": 22.070635,
+      "peRatio": 22.372484,
       "marketCap": 2999565680640,
       "high52wProximityPct": 96.8,
       "rsi14": 65.9,
@@ -74,11 +74,11 @@
     {
       "symbol": "META",
       "price": 594.92,
-      "peRatio": 22.323452,
+      "peRatio": 22.424423,
       "marketCap": 1515562336256,
       "high52wProximityPct": 75.0,
       "rsi14": 48.6,
-      "avgDailyVolume": 18150685,
+      "avgDailyVolume": 18115604,
       "buyLevel": 596.99,
       "bidLevel": 565.17,
       "sellLevel": 785.71,
