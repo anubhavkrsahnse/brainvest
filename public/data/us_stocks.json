@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-12 10:43 IST",
+  "lastUpdated": "2026-08-12 16:54 IST",
   "stocks": [
     {
       "symbol": "AAPL",
       "price": 304.91,
-      "peRatio": 35.3314,
+      "peRatio": 34.966743,
       "marketCap": 4449911701504,
       "high52wProximityPct": 88.6,
       "rsi14": 42.1,
@@ -18,7 +18,7 @@
     {
       "symbol": "MSFT",
       "price": 503.81,
-      "peRatio": 28.036173,
+      "peRatio": 28.083054,
       "marketCap": 3741064101888,
       "high52wProximityPct": 91.6,
       "rsi14": 77.7,
@@ -46,7 +46,7 @@
     {
       "symbol": "GOOGL",
       "price": 343.8,
-      "peRatio": 17.953003,
+      "peRatio": 17.241724,
       "marketCap": 4204651610112,
       "high52wProximityPct": 84.2,
       "rsi14": 45.9,
@@ -60,7 +60,7 @@
     {
       "symbol": "AMZN",
       "price": 272.27,
-      "peRatio": 22.372225,
+      "peRatio": 21.886656,
       "marketCap": 2936789270528,
       "high52wProximityPct": 94.8,
       "rsi14": 61.0,
@@ -74,7 +74,7 @@
     {
       "symbol": "META",
       "price": NaN,
-      "peRatio": 22.422155,
+      "peRatio": 22.574226,
       "marketCap": 1526261874688,
       "high52wProximityPct": NaN,
       "rsi14": 48.6,
@@ -88,7 +88,7 @@
     {
       "symbol": "TSLA",
       "price": 332.81,
-      "peRatio": 305.33026,
+      "peRatio": 302.55453,
       "marketCap": 1314448867328,
       "high52wProximityPct": 66.7,
       "rsi14": 43.5,
@@ -102,7 +102,7 @@
     {
       "symbol": "AVGO",
       "price": 416.08,
-      "peRatio": 69.346664,
+      "peRatio": 69.46244,
       "marketCap": 1979533885440,
       "high52wProximityPct": 84.2,
       "rsi14": 58.4,
