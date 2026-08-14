@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-14 10:47 IST",
+  "lastUpdated": "2026-08-14 16:53 IST",
   "ipos": [
+    {
+      "company": "Behari Lal Engineering Limited",
+      "symbol": "BLEL",
+      "priceBand": "Rs.271 to Rs.285",
+      "issueSizeCr": 211.3,
+      "qibSubscription": null,
+      "openDate": "12-Aug-2026",
+      "closeDate": "14-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 28.07,
+      "gmpRs": 80.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9546.52 crores in 2026 against \u20b9516.30 crores in 2025. The company reported profit of \u20b964.64 crores in 2026 against profit of \u20b952.95 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b980 (+28.1% est. listing)",
+        "IPO Watch review: May Apply",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Shiprocket Limited",
       "symbol": "SHIPROCKET",
@@ -24,30 +50,6 @@
       ]
     },
     {
-      "company": "Behari Lal Engineering Limited",
-      "symbol": "BLEL",
-      "priceBand": "Rs.271 to Rs.285",
-      "issueSizeCr": 211.3,
-      "qibSubscription": null,
-      "openDate": "12-Aug-2026",
-      "closeDate": "14-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 28.07,
-      "gmpRs": 80.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b980 (+28.1% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Skytech Infinite Platform Limited",
       "symbol": "SKYTECH",
       "priceBand": "\u2248\u20b977 (upper, IPO Watch)",
@@ -61,8 +63,9 @@
       "gmpRs": 13.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b952.14 crores in 2026 against \u20b945.21 crores in 2025. The company reported profit of \u20b94.20 crores in 2026 against profit of \u20b93.71 crores in 2025 As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b913 (+16.9% est. listing)"
       ],
@@ -84,8 +87,9 @@
       "gmpRs": 75.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b9214.43 crores in 2026 against \u20b978.23 crores in 2025. The company reported profit of \u20b918.45 crores in 2026 against profit of \u20b92.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b975 (+39.7% est. listing)"
       ],
@@ -107,8 +111,9 @@
       "gmpRs": 0.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b963.38 crores in 2026 against \u20b938.55 crores in 2025. The company reported profit of \u20b917.38 crores in 2026 against profit of \u20b911.14 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "No standout quantitative positives yet"
       ],
@@ -131,8 +136,9 @@
       "gmpRs": 0.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b9117.23 crores in 2026 against \u20b960.28 crores in 2025. The company reported profit of \u20b915.07 crores in 2026 against profit of \u20b95.81 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "No standout quantitative positives yet"
       ],
@@ -142,23 +148,25 @@
       ]
     },
     {
-      "company": "Milky Mist Dairy Food Limited",
-      "symbol": "MILKYMIST",
-      "priceBand": "Rs.133 to Rs.140",
-      "issueSizeCr": 1145.2,
+      "company": "Sunshine Pictures Limited",
+      "symbol": "SUNSHINE",
+      "priceBand": "Rs.342 to Rs.360",
+      "issueSizeCr": 282.1,
       "qibSubscription": null,
-      "openDate": "11-Aug-2026",
-      "closeDate": "13-Aug-2026",
+      "openDate": "18-Aug-2026",
+      "closeDate": "20-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 18.57,
-      "gmpRs": 26.0,
+      "gmpPct": 9.17,
+      "gmpRs": 33.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b976.27 crores in 2026 against \u20b9105.80 crores in 2025. The company reported profit of \u20b940.02 crores in 2026 against profit of \u20b934.46 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b926 (+18.6% est. listing)"
+        "Positive GMP: \u20b933 (+9.2% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -203,8 +211,9 @@
       "gmpRs": 4.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
+      "moat": "The company reported revenue of \u20b9767.84 crores in 2026 against \u20b9439.35 crores in 2025. The company reported loss of \u20b9203.65 crores in 2026 against loss of \u20b9178.78 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Positive GMP: \u20b94 (+6.7% est. listing)"
       ],
@@ -227,10 +236,11 @@
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b925,039.80 crores in 2026 against \u20b916,907.88 crores in 2025. The company reported profit of \u20b91009.82 crores in 2026 against profit of \u20b9364.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b938 (+18.9% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b938 (+18.9% est. listing)",
+        "IPO Watch review: May Apply"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
