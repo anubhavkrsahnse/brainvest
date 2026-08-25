@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-24 16:33 IST",
+  "lastUpdated": "2026-08-25 09:40 IST",
   "ipos": [
+    {
+      "company": "Annu Projects Limited",
+      "symbol": "ANNU",
+      "priceBand": "Rs.94 to Rs.99",
+      "issueSizeCr": 175.1,
+      "qibSubscription": null,
+      "openDate": "25-Aug-2026",
+      "closeDate": "28-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 5.05,
+      "gmpRs": 5.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Positive GMP: \u20b95 (+5.0% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Skyways Air Services Limited",
       "symbol": "SKYWAYS",
@@ -37,16 +61,14 @@
       "closeDate": "27-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 41.4,
-      "gmpRs": 409.0,
+      "gmpPct": 34.41,
+      "gmpRs": 340.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9872.26 crores in 2026 against \u20b9755.98 crores in 2025. The company reported profit of \u20b9109.90 crores in 2026 against profit of \u20b996.79 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
+      "moat": null,
+      "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9409 (+41.4% est. listing)",
-        "IPO Watch review: May Apply"
+        "Strong grey-market sentiment: GMP \u20b9340 (+34.4% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -62,15 +84,15 @@
       "closeDate": "27-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 47.17,
-      "gmpRs": 25.0,
+      "gmpPct": 56.6,
+      "gmpRs": 30.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9193.44 crores in 2026 against \u20b9166.71 crores in 2025. The company reported profit of \u20b922.59 crores in 2026 against profit of \u20b919.62 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b925 (+47.2% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b930 (+56.6% est. listing)",
         "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
@@ -88,41 +110,38 @@
       "closeDate": "25-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 47.07,
-      "gmpRs": 370.0,
+      "gmpPct": 41.24,
+      "gmpRs": 325.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b994,282.47 crores in 2026 against \u20b966,252.05 crores in 2025. The company reported profit of \u20b9348.30 crores in 2026 against profit of \u20b9227.19 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9370 (+47.1% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b9325 (+41.2% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "Tempsens Instruments (India) Limited",
-      "symbol": "TEMPSENS",
-      "priceBand": "Rs.285 to Rs.300",
-      "issueSizeCr": 455.5,
+      "company": "Sumax Engineering Limited",
+      "symbol": "SUMAX",
+      "priceBand": "\u2248\u20b9101 (upper, IPO Watch)",
+      "issueSizeCr": null,
       "qibSubscription": null,
-      "openDate": "20-Aug-2026",
-      "closeDate": "24-Aug-2026",
+      "openDate": "25-Aug-2026",
+      "closeDate": "28-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 108.33,
-      "gmpRs": 325.0,
+      "gmpPct": 31.68,
+      "gmpRs": 32.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9455.86 crores in 2026 against \u20b9382.47 crores in 2025. The company reported profit of \u20b971.07 crores in 2026 against profit of \u20b962.56 crores in 2025 As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
+      "moat": "The company reported revenue of \u20b9148.34 crores in 2026 against \u20b9147.18 crores in 2025. The company reported profit of \u20b912.76 crores in 2026 against profit of \u20b99.98 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9325 (+108.3% est. listing)",
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "Strong grey-market sentiment: GMP \u20b932 (+31.7% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -138,18 +157,18 @@
       "closeDate": "27-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 9.0,
-      "gmpRs": 9.0,
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9171.76 crores in 2025 against \u20b9108.41 crores in 2024. The company reported profit of \u20b911.03 crores in 2025 against profit of \u20b91.70 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b99 (+9.0% est. listing)"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -177,6 +196,30 @@
       ]
     },
     {
+      "company": "Tempsens Instruments (India) Limited",
+      "symbol": "TEMPSENS",
+      "priceBand": "Rs.285 to Rs.300",
+      "issueSizeCr": 455.5,
+      "qibSubscription": null,
+      "openDate": "20-Aug-2026",
+      "closeDate": "24-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 105.67,
+      "gmpRs": 317.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9317 (+105.7% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
       "company": "Lumino Industries Limited",
       "symbol": "LUMINO",
       "priceBand": "Rs.78 to Rs.82",
@@ -195,56 +238,6 @@
       "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b950 (+61.0% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Annu Projects Limited",
-      "symbol": "ANNU",
-      "priceBand": "Rs.94 to Rs.99",
-      "issueSizeCr": 175.1,
-      "qibSubscription": null,
-      "openDate": "25-Aug-2026",
-      "closeDate": "28-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 5.05,
-      "gmpRs": 5.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9244.59 crores in 2026 against \u20b9182.35 crores in 2025. The company reported profit of \u20b933.03 crores in 2026 against profit of \u20b921.10 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b95 (+5.0% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Sumax Engineering Limited",
-      "symbol": "SUMAX",
-      "priceBand": "Rs.95 to Rs.101",
-      "issueSizeCr": 38.9,
-      "qibSubscription": null,
-      "openDate": "25-Aug-2026",
-      "closeDate": "28-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 31.68,
-      "gmpRs": 32.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9148.34 crores in 2026 against \u20b9147.18 crores in 2025. The company reported profit of \u20b912.76 crores in 2026 against profit of \u20b99.98 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b932 (+31.7% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
