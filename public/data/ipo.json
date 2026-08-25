@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25 09:40 IST",
+  "lastUpdated": "2026-08-25 16:31 IST",
   "ipos": [
     {
       "company": "Annu Projects Limited",
@@ -15,8 +15,9 @@
       "gmpRs": 5.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
+      "moat": "The company reported revenue of \u20b9244.59 crores in 2026 against \u20b9182.35 crores in 2025. The company reported profit of \u20b933.03 crores in 2026 against profit of \u20b921.10 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Positive GMP: \u20b95 (+5.0% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
@@ -65,10 +66,12 @@
       "gmpRs": 340.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b9872.26 crores in 2026 against \u20b9755.98 crores in 2025. The company reported profit of \u20b9109.90 crores in 2026 against profit of \u20b996.79 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9340 (+34.4% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b9340 (+34.4% est. listing)",
+        "IPO Watch review: May Apply"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -114,8 +117,9 @@
       "gmpRs": 325.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
+      "moat": "The company reported revenue of \u20b994,282.47 crores in 2026 against \u20b966,252.05 crores in 2025. The company reported profit of \u20b9348.30 crores in 2026 against profit of \u20b9227.19 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b9325 (+41.2% est. listing)"
       ],
@@ -209,10 +213,37 @@
       "gmpRs": 317.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b9455.86 crores in 2026 against \u20b9382.47 crores in 2025. The company reported profit of \u20b971.07 crores in 2026 against profit of \u20b962.56 crores in 2025 As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b9317 (+105.7% est. listing)",
+        "IPO Watch review: May Apply",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Priority Jewels Limited",
+      "symbol": "PRIORITY",
+      "priceBand": "Rs.190 to Rs.200",
+      "issueSizeCr": 91.5,
+      "qibSubscription": null,
+      "openDate": "28-Aug-2026",
+      "closeDate": "01-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 14.0,
+      "gmpRs": 28.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9539.03 crores in 2026 against \u20b9435.87 crore in 2025. The company reported profit of \u20b917.65 crores in 2026 against profit of \u20b910.51 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b928 (+14.0% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
