@@ -1,28 +1,6 @@
 {
-  "lastUpdated": "2026-10-21 14:16 IST",
+  "lastUpdated": "2026-10-21 21:01 IST",
   "ipos": [
-    {
-      "company": "Jio Platforms Limited",
-      "symbol": "JPL",
-      "priceBand": "Rs.1065 to Rs.1119",
-      "issueSizeCr": 22103.2,
-      "qibSubscription": null,
-      "openDate": "21-Oct-2026",
-      "closeDate": "23-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
-      ]
-    },
     {
       "company": "Paras Healthcare Limited",
       "symbol": "PARASHLTH",
@@ -43,6 +21,28 @@
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Jio Platforms Limited",
+      "symbol": "JPL",
+      "priceBand": "Rs.1065 to Rs.1119",
+      "issueSizeCr": 22103.2,
+      "qibSubscription": null,
+      "openDate": "21-Oct-2026",
+      "closeDate": "23-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
       ]
     }
   ]
