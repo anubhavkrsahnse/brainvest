@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-10-27 14:44 IST",
+  "lastUpdated": "2026-10-27 21:29 IST",
   "ipos": [
-    {
-      "company": "SFC Environmental Technologies Limited",
-      "symbol": "SFCTECH",
-      "priceBand": "Rs.313 to Rs.330",
-      "issueSizeCr": 467.3,
-      "qibSubscription": null,
-      "openDate": "27-Oct-2026",
-      "closeDate": "29-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 6.67,
-      "gmpRs": 22.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Positive GMP: \u20b922 (+6.7% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
     {
       "company": "BLS Polymers Limited",
       "symbol": "BLSPOLY",
@@ -43,6 +19,30 @@
       "verdict": null,
       "pros": [
         "Strong grey-market sentiment: GMP \u20b940 (+26.7% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "SFC Environmental Technologies Limited",
+      "symbol": "SFCTECH",
+      "priceBand": "Rs.313 to Rs.330",
+      "issueSizeCr": 467.3,
+      "qibSubscription": null,
+      "openDate": "27-Oct-2026",
+      "closeDate": "29-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 6.67,
+      "gmpRs": 22.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Positive GMP: \u20b922 (+6.7% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -100,7 +100,7 @@
       "company": "M. K. Sons Fine Jewels Limited",
       "symbol": "MKSONS",
       "priceBand": "Rs.153 to Rs.162",
-      "issueSizeCr": 275.4,
+      "issueSizeCr": 192.8,
       "qibSubscription": null,
       "openDate": "28-Oct-2026",
       "closeDate": "30-Oct-2026",
